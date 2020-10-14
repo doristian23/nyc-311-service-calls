@@ -2,7 +2,7 @@
 
 ## Overview
 What do New Yorkers need help with? How (and how timely) does the government respond? Let's see if the data has answers.
-This project dives into the New York City municipal 311 service call data. Using linear regression, I determine whether response time is correlated with the neighbourhood income level. 
+This project dives into the New York City municipal 311 service call data. Using linear regression, I determine whether response time is correlated with the neighbourhood income level. Data is sourced from https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9.
 
 ### Libraries used
 1. scikit-learn
