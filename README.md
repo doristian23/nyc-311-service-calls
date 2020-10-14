@@ -10,4 +10,4 @@ This project dives into the New York City municipal 311 service call data. Using
 3. pandas
 
 ### Visualization
-Average monthly response time per zipcode is displayed in an interactive dashboard, programmed with Bokeh. Check it out at https://18.207.2.5:8080/nyc_dash. Linear regression model is currently a work in progress.
+Average monthly response time per zipcode is displayed in an interactive dashboard, programmed with Bokeh. Check it out at http://18.207.2.5:8080/nyc_dash?username=nyc&password=iheartnyc. Linear regression model is currently a work in progress.
